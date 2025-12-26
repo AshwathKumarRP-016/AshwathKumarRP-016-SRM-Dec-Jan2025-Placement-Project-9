@@ -1,5 +1,5 @@
 # 🔐 UserAuth System - Full Stack Authentication
-CLICK Registration System--> CLICK src --> CLICK main --> CLICK java -->registrationlogin --> SERVLET Registrationlogin.java FILE  | CLICK webapp ---> Registration.html -->Login.html--> Welcome
+CLICK Registration System--> CLICK src --> CLICK main --> CLICK java -->registrationlogin --> SERVLET Registrationlogin.java FILE  | CLICK webapp ---> Registration.html -->Login.html--> Welcome.jsp
 
 ## 🎯 **What It Does**
 - **Register** users with secure password validation
